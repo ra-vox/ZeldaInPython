@@ -1,0 +1,39 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "TX Props.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "TX Tileset Grass.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.imagePath": "C:/Users/ralfv/Downloads/Pixel Art Top Down - Basic/Texture",
+    "map.height": 64,
+    "map.tileHeight": 32,
+    "map.tileWidth": 32,
+    "map.width": 64,
+    "openFiles": [
+        "TX Tileset Grass.tsx",
+        "TX Props.tsx"
+    ],
+    "project": "ZeldaInPython.tiled-project",
+    "recentFiles": [
+        "TX Tileset Grass.tsx",
+        "TX Props.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 32,
+        "width": 32
+    }
+}
